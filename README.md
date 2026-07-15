@@ -1,6 +1,7 @@
-# Jay Tripathi
-### **AI Engineer | Building Fullstack Software | React ∙ TypeScript ∙ Python ∙ PostgreSQL ∙ AWS**
+# ✨ jay tripathi ✨
+### **⚡ ai engineer &nbsp;|&nbsp; building fullstack software &nbsp;|&nbsp; react ∙ typescript ∙ python ∙ postgresql ∙ aws ⚡**
 <br/>
+
 
 ![status](https://api.statusbadges.me/badge/status/278191353261981696?simple=true?style=flat-square)
 ![playing](https://api.statusbadges.me/badge/playing/278191353261981696?style=flat-square)
@@ -8,32 +9,42 @@
 ![vscode](https://api.statusbadges.me/badge/vscode/278191353261981696?style=flat-square)
 [![portfolio](https://img.shields.io/badge/portfolio-visit%20site-brightgreen?style=flat-square&logo=vercel?style=flat-square)](https://jaytripathi.dev/)
 
-# About Me
-
+# 👋 about me
+ 
 <table>
 <tr>
-<td width="60%" valign="top">
-
-i'm an ai-first fullstack developer living in san jose, ca, and a recent graduate from university of california, santa Cruz, with a bs in computer science. let's build together.
-
-- 🔭 currently building **[[REDACTED]]**
-- 🌱 expert in **ai-first fullstack development, data pipeline automation, and rag pipelines**
-- 🎯 always learning new technologies.
-- 🇯🇵  learning japanese and kanji
-
-</td>
-<td>
-
-## Education
+<td valign="top">
   
-**Computer Science B.S. @ UC Santa Cruz**
+### 🚀 **hello world! i'm jay**
 
-## Tech Stack
+🤖 **ai-first fullstack dev shipping from san jose, ca** ☀️
 
-**React ∙ TypeScript ∙ Python ∙ PostgreSQL ∙ AWS**
-
+🍌 **fresh grad from uc santa cruz with a bs in computer science** 🐌
+ 
+💻 **i turn ideas into products. let's build together** 🤝
+ 
+- 🔭 **currently cooking: **[redacted]**** 👀
+- 🧠 **deep in: ai-first fullstack dev, data pipeline automation & rag pipelines**
+- 🎯 **always shipping, always learning**
+- &nbsp;🇯🇵&nbsp;&nbsp;**grinding japanese + kanji, one 漢字 at a time**
 <br/>
+</td>
+<td valign="top">
   
+## 🎓 education
+ 
+**computer science b.s. @ uc santa cruz** 🐌
+ 
+## 🛠️ the tech stack
+<br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,postgres,graphql,aws,docker&perline=3" />
+  </a>
+</p>
+
+ 
+<br/>
 </td>
 </tr>
 </table>
