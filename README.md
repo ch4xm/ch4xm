@@ -18,7 +18,7 @@
 
 🤖 **ai-first fullstack dev shipping from san jose, ca** ☀️
 
-🍌 **fresh grad from uc santa cruz with a bs in computer science** 🐌
+🍌 **fresh grad from ucsc with a bs in computer science** 🐌
  
 💻 **i turn ideas into products. let's build together** 🤝
  
@@ -32,7 +32,14 @@
 👨‍💻 **computer science b.s. @ uc santa cruz** 🐌
 <br/>
 </td>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
+
+
+## 📌 featured
+ 
+🗺️ **[beacon](https://beaconapp.live/) — a community map for discovering local gems over corporate chains, with an ai assistant that plans greener, low-carbon trips** 🌱
+
+🍌 **[ucsc.app](https://ucsc.app/) — ucsc's all-in-one student platform: class search, dining menus, campus news & a map of lecture hall schedules. born @ cruzhacks 2025** 🐌
 
  
 ## 🛠️ the tech stack
@@ -41,12 +48,6 @@
     <img src="https://skillicons.dev/icons?i=react,ts,postgres,graphql,aws,docker&perline=3" />
   </a>
 </p>
-
-## 📌 featured
- 
-🗺️ **[beacon](https://beaconapp.live/)** — a community map for discovering local gems over corporate chains, with an ai assistant that plans greener, low-carbon trips 🌱
-
-🍌 **[ucsc.app](https://ucsc.app/)** — ucsc's all-in-one student platform: class search, dining menus, campus news & a map of lecture hall schedules. born at cruzhacks 2025 🐌
 
 ## 📫 let's connect
 
