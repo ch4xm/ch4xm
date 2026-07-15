@@ -45,7 +45,7 @@
 ## 🛠️ the tech stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,postgres,graphql,aws,docker&perline=3" />
+    <img src="https://skillicons.dev/icons?i=react,ts,postgres,graphql,aws,docker&perline=6" />
   </a>
 </p>
 
