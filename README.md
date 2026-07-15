@@ -14,14 +14,12 @@
 <tr>
 <td width="60%" valign="top">
 
-I'm an **AI/ML Engineer** and **App Developer** living in San Jose, CA, and a recent graduate from University of California, Santa Cruz, with a **BS in Computer Science**.
+i'm an ai-first fullstack developer living in san jose, ca, and a recent graduate from university of california, santa Cruz, with a bs in computer science. let's build together.
 
-<br/>
-
-- 🔭 Currently building **[[REDACTED]]**
-- 🌱 Expert in **AI-First Fullstack Development, Data Pipeline Automation, and RAG pipelines**
-- 🎯 Always learning new technologies.
-- 🇯🇵 Learning Japanese and Kanji
+- 🔭 currently building **[[REDACTED]]**
+- 🌱 expert in **ai-first fullstack development, data pipeline automation, and rag pipelines**
+- 🎯 always learning new technologies.
+- 🇯🇵  learning japanese and kanji
 
 </td>
 <td>
