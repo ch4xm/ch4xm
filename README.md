@@ -42,7 +42,7 @@
 🍌 **[ucsc.app](https://ucsc.app/) — ucsc's all-in-one student platform: class search, dining menus, campus news & a map of lecture hall schedules. born @ cruzhacks 2025** 🐌
 
  
-## 🛠️ the tech stack
+## 🛠️ my favorite tech stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,ts,postgres,graphql,aws,docker&perline=6" />
