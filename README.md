@@ -25,7 +25,7 @@
 - 🔭 **currently cooking: **[redacted]**** 👀
 - 🧠 **deep in: ai-first fullstack dev, data pipeline automation & rag pipelines**
 - 🎯 **always shipping, always learning**
-- &nbsp;🇯🇵&nbsp;&nbsp;**grinding japanese + kanji, one 漢字 at a time**
+- &nbsp;🇯🇵&nbsp;&nbsp;**grinding japanese, one 漢字 at a time**
 
 ## 🎓 education
  
