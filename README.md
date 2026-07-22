@@ -1,5 +1,5 @@
 # ✨ jay tripathi ✨
-### **⚡ ai engineer &nbsp;|&nbsp; building fullstack software &nbsp;|&nbsp; react ∙ typescript ∙ python ∙ postgresql ∙ aws ⚡**
+### **⚡ ai engineer &nbsp;|&nbsp; building fullstack software ⚡**
 <br/>
 
 
@@ -16,7 +16,7 @@
   
 ## 🚀 **hello world! i'm jay**
 
-🤖 **ai-first fullstack dev shipping from san jose, ca** ☀️
+🤖 **ai-first fullstack developer from san jose, ca** ☀️
 
 🍌 **fresh grad from ucsc with a bs in computer science** 🐌
  
